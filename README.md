@@ -38,8 +38,6 @@ AboutMe = {
 </div>
 
 <div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ferrer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align=center>
