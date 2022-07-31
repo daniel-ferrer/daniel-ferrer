@@ -40,7 +40,5 @@ AboutMe = {
 
 <div align=center>
 <h2>Social media links</h2>
-  
-[![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.gg/hydrohomies)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Daniel__Ferrer)
 </div>
