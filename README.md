@@ -3,13 +3,15 @@
 <h2 align="center"> Who am I?</h2>
 
 ```python
-AboutMe = {
-    Name      : "Daniel",
-    Age       : "22",
-    Languages : [
-        "C#", "Python", "HTML", "CSS", "Java", "VB", "C"
+{
+  "AboutMe": {
+    "Name": "Daniel",
+    "Age": "22",
+    "Languages": [
+      "C#", "Python", "HTML", "CSS", "Java", "VB", "C"
     ]
- }
+  }
+}
  ```
 <div align="center">
     <h2>GitHub Profile Stats 📊</h2>
