@@ -1,9 +1,9 @@
-# 👋 Welcome to my GitHub Profile
+# 👋 Welcome to My GitHub
 
 <div align="center">
 
-### Hi there! I'm **Daniel** 👨‍💻
-*A passionate developer, never not working on HydroBot or Fimsy*
+### I'm **Daniel Ferrer** 👨‍💻
+*Software Engineer | Product Reliability Engineering | Building Systems That Scale*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=daniel-ferrer&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/daniel-ferrer?style=social)
@@ -12,74 +12,115 @@
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I'm a **Product Site Reliability Engineer** with a passion for **.NET backend development**.
+As a **Product Reliability Engineer**, I focus on designing systems that don't just work—they work predictably at scale. My approach bridges the gap between engineering rigor and business outcomes: I build observability solutions, strengthen deployment pipelines, and foster reliability cultures that help teams ship with confidence.
 
-- 🔭 Currently working on: **Fimsy**
-- 🌱 Learning: **All things AI related**
-- 💬 Ask me about: **Why NewRelic sucks**
-- 📫 How to reach me: **[Email](mailto:ferrdan2506@gmail.com)** | **[My Website](https://danielferrer.dev)**
-- ⚡ Fun fact: **I'm trying to teach my beagle, Zoe, to code... it's not going well**
+**For deeper insights into my philosophy and experience, visit [danielferrer.blog](https://danielferrer.blog)**
+
+**Currently:** Working on reliability infrastructure, observability platforms, and SRE tooling that helps teams understand and improve their systems.
+
+**Exploring:** Distributed systems patterns, chaos engineering practices, and novel approaches to incident management and resilience.
 
 ---
 
-## 🛠️ Tech Stack & Languages
+## 💡 Focus Areas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+**Observability** | **Incident Response** | **System Resilience** | **Infrastructure as Code** | **Performance Optimization** | **Team Culture & Practices**
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📦 Open Source & Key Projects
+<!--
+Here are some projects that showcase my approach to solving reliability challenges:
 
-<div align="center">
+### 🔍 Observability & Monitoring Solutions
+Tools and frameworks that help teams understand system behavior in production.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-ferrer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
+- **[observability-stack](https://github.com/daniel-ferrer/observability-stack)** — Production-ready monitoring with Prometheus, Grafana, and Loki
+- **[metrics-exporter](https://github.com/daniel-ferrer/metrics-exporter)** — Custom metrics collection for application-specific insights
+- **[log-aggregation-toolkit](https://github.com/daniel-ferrer/log-aggregation-toolkit)** — Centralized logging patterns and implementations
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ferrer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+### 🔧 Reliability Infrastructure
+IaC templates, automation tools, and deployment strategies that prioritize system stability.
 
-</div>
+- **[infrastructure-as-code](https://github.com/daniel-ferrer/infrastructure-as-code)** — Kubernetes, Terraform, and cloud infrastructure patterns
+- **[deployment-automation](https://github.com/daniel-ferrer/deployment-automation)** — Safe deployment practices with automated rollback capabilities
+
+### 🛡️ Resilience & Testing
+Frameworks for chaos engineering, load testing, and failure scenario simulation.
+
+- **[chaos-engineering-toolkit](https://github.com/daniel-ferrer/chaos-engineering-toolkit)** — Controlled failure injection for resilience validation
+- **[incident-response-automation](https://github.com/daniel-ferrer/incident-response-automation)** — Tools for faster mean time to resolution
+
+> 📚 **More details about specific projects, architectural decisions, and case studies are available on [danielferrer.dev](https://danielferrer.dev) or [danielferrer.blog](https://danielferrer.blog)**
+-->
+
+COMING SOON
 
 ---
-
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daniel-ferrer&theme=react-dark&hide_border=true&area=true)
+[![daniel-ferrer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel-ferrer&bg_color=3b3b3f&color=ffffff&line=467eb9&point=9e8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📚 Recent Blog Posts & Articles
+## 📖 Writing & Insights
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 Coming Soon
-<!-- BLOG-POST-LIST:END -->
+I share technical deep dives, lessons learned, and evolving perspectives on reliability engineering at [danielferrer.blog](https://danielferrer.blog).
+
+**Recent topics include:**
+- System design patterns for reliability at scale
+- Building effective observability platforms
+- Incident management and learning from failures
+- Infrastructure as code best practices
+- Team dynamics and SRE culture
+
+Check my website for the full archive of articles, technical guides, and case studies.
 
 ---
 
+## 🌱 Continuous Learning
 
-## 📞 Let's Connect!
+In my work, I've earned certifications across cloud platforms and Kubernetes, but I believe learning extends far beyond credentials. I invest in understanding:
+
+- How systems fail and how to build resilience
+- The human side of operations and incident response
+- Emerging patterns in distributed systems
+- How to communicate complexity clearly to teams and stakeholders
+
+**For my professional background and formal credentials, visit [danielferrer.dev](https://danielferrer.dev)**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in discussing reliability challenges, SRE practices, and how we can build better systems together.
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://danielferrer.dev)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://danielferrer.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ferrer-sosa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://danielferrer.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrdan2506@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔗 **GitHub is where I build, [danielferrer.blog](https://danielferrer.blog) is where I think.**
+
+*Reliability is a choice. Let's build systems worth depending on.*
 
 </div>
