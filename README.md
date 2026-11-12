@@ -20,3 +20,11 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrdan2506@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+
+[← prev](https://utsa-webring.com/daniel-ferrer/prev) · [utsa-webring](https://utsa-webring.com/) · [next →](https://utsa-webring.com/daniel-ferrer/next)
+
+</div>
