@@ -25,6 +25,8 @@
 
 <div align="center">
 
-[← prev](https://utsa-webring.com/daniel-ferrer/prev) · [utsa-webring](https://utsa-webring.com/) · [next →](https://utsa-webring.com/daniel-ferrer/next)
+<a href="https://utsa-webring.com/">
+  <img src="https://utsa-webring.com/assets/img/badge-88x31.svg" width="88" height="31" alt="utsa-webring">
+</a>
 
 </div>
